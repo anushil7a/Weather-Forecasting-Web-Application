@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Weather App</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+  <!-- Add Google Font -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="author">Made by Anushil Adhikari</div>
+  <div id="time"></div>
+  <div class="container">
+    <h1>Weather App</h1>
+    <input type="text" id="city-input" placeholder="Enter city name...">
+    <button id="submit-btn">Submit</button>
+
+    <!-- Add tabs -->
+    <div class="tab">
+      <button class="tablinks" onclick="openForecast(event, 'sevenDay')">7 Day Forecast</button>
+      <button class="tablinks" onclick="openForecast(event, 'twentyFourHour')">24 Hour Forecast</button>
+    </div>
+
+    <div id="sevenDay" class="tabcontent">
+      <div id="weather-info" class="forecast-grid"></div>
+    </div>
+
+    <div id="twentyFourHour" class="tabcontent">
+      <div id="hourly-weather-info" class="forecast-grid"></div>
+    </div>
+
+    <div class="links">
+      <a href="https://github.com/anushil7a" target="_blank">GitHub</a>
+      <a href="https://linkedin.com/in/anushil-adhikari-2556bb238" target="_blank">LinkedIn</a>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
