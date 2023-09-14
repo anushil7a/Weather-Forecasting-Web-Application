@@ -3,6 +3,12 @@
 
 This Weather Forecasting App allows users to retrieve real-time weather conditions, a 7-day forecast, and an hourly forecast for any city globally. It uses JavaScript along with the OpenWeatherMap and TimeZoneDB APIs to provide localized weather details and time information.
 
+
+https://github.com/anushil7a/Weather-Forecasting-Web-Application/assets/87778762/bb295e38-e724-4fcc-882a-ba726e7884e2
+
+
+
+
 ## Project Description
 
 The Weather Forecasting Application is a user-friendly web tool designed to display up-to-date weather conditions and forecasts using JavaScript. It integrates data from OpenWeatherMap and TimeZoneDB APIs to provide localized weather details and time information. Users can view the current weather conditions, a 7-day forecast, and an hourly forecast for their chosen location.
