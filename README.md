@@ -18,11 +18,11 @@ The Weather Forecasting Application is a user-friendly web tool designed to disp
 
 ## Project Structure
 
-|-- index.html # Main HTML file
-|-- script.js # JavaScript functionality providing weather details
-|-- style.css # Stylesheet to enhance the web page's look
-|-- water.jpeg # Image asset
-|-- wood.jpg # Image asset
+ index.html # Main HTML file
+script.js # JavaScript functionality providing weather details
+style.css # Stylesheet to enhance the web page's look
+water.jpeg # Image asset
+wood.jpg # Image asset
 
 
 ## Usage
