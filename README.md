@@ -32,6 +32,11 @@ This project serves as a great reference for developers learning how to integrat
 
 Feel free to clone, modify, and use this project as per your needs. Contributions and suggestions are always welcome.
 
+## How to Run:
+1. Clone the repository or download the source code.
+2. Install live-server globally via npm: npm install -g live-server
+3. Navigate to the project directory and start the server: live-server
+
 ## Assets
 
 - `water.jpeg` and `wood.jpg` are image assets used to enhance the visual appeal of the web page.
